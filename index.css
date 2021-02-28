@@ -1,0 +1,200 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: white;
+}
+
+#container{
+	width: 70%;
+	border: 1px solid black;
+	margin: 0px auto;
+	font-family: Arial;
+}
+
+header{
+	font-family: Cooper black;
+	height: 100px;
+	width: 100%;
+	background: #E42D40;
+	line-height: 100px;
+	text-align: center;
+	color: white;
+}
+
+nav ul li {
+	float: left;
+	color: white;
+	margin: 10px;
+	line-height: 20px;
+	font-size: 20px;
+}
+
+a{
+	color: white;
+}
+
+nav{
+	background: #142B3B;
+	height: 50px;
+	border: 1px solid black;
+	padding-left: 100px;
+
+
+}
+
+.divider{
+	clear: both;
+}
+
+#content{
+	float: left;
+	width: 70%;
+	min-height: 400px;
+	background: #F0DDAA;
+	text-align: center;
+	padding-top: 15px;
+	
+
+}
+h3{
+	font-size: 27px;
+	font-family: Arial black;
+}
+
+
+p{
+	font-size: 120%;
+	margin-left: 30px;
+	margin-top: 5px; 
+	margin-right: 30px;
+
+}
+dl{
+	padding-top: 0px;
+	margin-left: 40px;
+	margin-top: 10px; 
+	margin-right: 40px;
+	marg
+
+}
+aside{
+	float: left;
+	background: #5B392A;
+	width: 30%;
+	min-height: 400px;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	font-family: Arial;
+
+}
+
+footer{
+	line-height: 50px;
+	text-align: center;
+	background: #142B3B;
+	color: white;
+	border: 1px solid black;
+	font-family: Arial;
+	
+}
+
+table{
+	width: 94%;
+	margin: 20px;
+
+
+
+
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
+
+th, td{
+	padding: 10px;
+
+}
+iframe{
+	padding-top: 10px;
+	width:560px; 
+	height:300px;
+
+
+}
+
+th{
+	font-size: 20px;
+}
+.imagen1{
+	width: 285px; 
+	height: 157px;
+	border: 1px solid black;
+	margin-left: 30px;
+	float: left;
+	background: white;
+}
+.imagen2{
+	width: 285px; 
+	height: 157px;
+	border: 1px solid black;
+	margin-left: 350px;
+	margin-top: 15px; 
+	background: white;
+}
+.imagen3{
+	width: 285px; 
+	height: 157px;
+	border: 1px solid black;
+	margin-left: 30px;
+	float: left;
+	margin-top: 15px; 
+	background: white;
+}
+
+.imagen4{
+	width: 285px; 
+	height: 157px;
+	border: 1px solid black;
+	margin-left: 350px;
+	margin-top: 15px; 
+	background: white;
+}
+img{
+	margin-top: 3px; 
+}
+i{
+margin-top: 100px; 
+}
+input, textarea{
+	margin-top: 15px; 
+	width: 70%;
+	margin-bottom: 15px;
+	padding:7px;
+
+}
+textarea{
+	min-height: 50px;
+	max-height: 100px;
+	max-width: 70%;
+
+}
+#boton{
+	background: black;
+	color:#fff;
+	padding: 10px;
+}
+#boton:hover{
+	cursor:pointer;
+}
+h4{
+	font-size: 130%;
+}
+li{
+	padding-top: 5px;
+}
